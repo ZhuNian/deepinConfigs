@@ -1,0 +1,7 @@
+{
+  "server": "vip-hk02-5.ssv7.net",
+  "server_port": 53368,
+  "local_port": 1080,
+  "password": "FUMaZndASUSJ",
+  "method": "aes-256-cfb"
+}
